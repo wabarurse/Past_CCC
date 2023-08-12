@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.25)
+project(Past_CCC)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(2018s2 Senior/2018s2.cpp)
+add_executable(2018s Senior/2018s1.cpp)
+add_executable(2016j2 Junior/2016j2.cpp)
+add_executable(2016j2-arr Junior/2016j2-arr.cpp)
+add_executable(2020j3 Junior/2020j3.cpp)
+add_executable(2019j3 Junior/2019j3.cpp)
+add_executable(2018j3 Junior/2018j3.cpp)
+add_executable(2015s1 Senior/2015s1.cpp)
+add_executable(2018s2-arr Senior/2018s2-arr.cpp)
+add_executable(2017j3 Junior/2017j3.cpp)

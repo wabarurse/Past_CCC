@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Past_CCC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2015s1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2015s1-Debug-7eecb37fe4d04f11e3f7.json",
+					"name" : "2015s1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2016j2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2016j2-Debug-c00c55a7543cb352824a.json",
+					"name" : "2016j2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2016j2-arr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2016j2-arr-Debug-1e0b002c31d56c978835.json",
+					"name" : "2016j2-arr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2017j3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2017j3-Debug-9461b57fb86c2040c9ba.json",
+					"name" : "2017j3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2018j3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2018j3-Debug-157217b18d7ad939f6cf.json",
+					"name" : "2018j3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2018s::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2018s-Debug-dee0bf6b6b19d1954f66.json",
+					"name" : "2018s",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2018s2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2018s2-Debug-9d9bbf949d86bdb6aaaa.json",
+					"name" : "2018s2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2018s2-arr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2018s2-arr-Debug-5c8ef68022a9171c7fbc.json",
+					"name" : "2018s2-arr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2019j3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2019j3-Debug-4af0706cb97e35750a9f.json",
+					"name" : "2019j3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2020j3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2020j3-Debug-715ee69ca356eb1a6aa1.json",
+					"name" : "2020j3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Coding/C++/Past CCC/cmake-build-debug",
+		"source" : "D:/Coding/C++/Past CCC"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
